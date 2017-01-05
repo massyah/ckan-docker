@@ -1,3 +1,8 @@
+Docker containers for the CKAN data catalog.
+
+Updated for the latest (v 2.7) ckan version.
+
+
 # installation /build-process
 
 ## eccenca/baseimage-docker
